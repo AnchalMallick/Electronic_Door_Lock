@@ -1,11 +1,3 @@
-See the project video here:
-
-
-https://user-images.githubusercontent.com/65439177/112496602-e4f2b480-8daa-11eb-9c7e-cc74cb86cedc.mp4
-
-
-
-
 
 # Electronic_Door_Lock
 An electronic door lock designed in TinkerCad
